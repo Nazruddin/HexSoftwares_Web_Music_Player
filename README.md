@@ -13,6 +13,10 @@ This is a web-based music player project created as part of the HexSoftwares int
 - CSS3
 - JavaScript
 
+## Screenshot
+![Web Music Player]([Screenshot .png](https://github.com/Nazruddin/HexSoftwares_Web_Music_Player/blob/main/Screenshot%20.png?raw=true))
+
+
 ## How to Use
 1. Clone the repository:
    ```bash
